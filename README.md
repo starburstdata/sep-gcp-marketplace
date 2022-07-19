@@ -7,6 +7,6 @@ running on the Kubernetes.
 The offering is listed in the GCP Marketplace -
 Kubernetes Applications: https://console.cloud.google.com/marketplace/details/starburst-public/starburst-presto
 
-> **_NOTE:_** We do not support deployment via the the "Click To Deploy" methond. You must use the CLI in the marketplace. 
+> **_NOTE:_** We do not support deployment via the the "Click To Deploy" method. You must use the CLI in the marketplace. 
 
 For assistance and getting details about pricing and support models offered, contact support@starburstdata.com.
