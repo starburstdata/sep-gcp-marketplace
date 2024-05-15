@@ -5,7 +5,7 @@ Marketplace. It offers a simple and convenient way to get started with SEP
 running on the Kubernetes.
 
 The offering is listed in the GCP Marketplace -
-Kubernetes Applications: https://console.cloud.google.com/marketplace/details/starburst-public/starburst-presto
+Kubernetes Applications: [https://console.cloud.google.com/marketplace/details/starburst-public/starburst-presto](https://console.cloud.google.com/marketplace/product/starburst-public/starburst-enterprise)
 
 > **_NOTE:_** We do not support deployment via the the "Click To Deploy" method. You must use the CLI in the marketplace. 
 
